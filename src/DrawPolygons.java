@@ -15,7 +15,6 @@ public class DrawPolygons extends Component{
         centerPoints.add(new Point(100,100));
         centerPoints.add(new Point(150,150));
         centerPoints.add(new Point(100,200));
-        test
     }//constructor
 
     @Override
